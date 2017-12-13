@@ -10,7 +10,7 @@ class Hello
 {
    static void Increment(int i)
 {
-i=i+1
+    i=i+1;
 }
 
 static void Main()
@@ -20,7 +20,7 @@ Increment(x);
 Console.WriteLine("The value of x is " + x);
 Console.Read();
     }
-// }
+    }
 ```
 
 # Advanced usage

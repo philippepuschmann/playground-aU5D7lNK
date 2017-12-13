@@ -18,7 +18,6 @@ static void Main()
 int x = 1;
 Increment(x);
 Console.WriteLine("The value of x is " + x);
-Console.Read();
     }
     }
 ```
